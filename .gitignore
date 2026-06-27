@@ -1,0 +1,6 @@
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
+.agents/
+.gemini/
